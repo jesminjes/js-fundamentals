@@ -14,4 +14,7 @@ var batteryIndex = books.indexOf('battery');
 console.log(batteryIndex);
 
  var secondIndex = books[2];
- console.log(secondIndex);
+//  console.log(secondIndex);
+
+
+numbers[1] = 77;
